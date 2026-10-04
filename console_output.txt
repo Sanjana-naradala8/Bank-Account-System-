@@ -1,0 +1,1369 @@
+
+========== NEW SESSION: Fri Aug 21 07:10:54 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number (10 digits): Enter address: Enter account type (Savings/Current): Enter opening deposit: 
+========== NEW SESSION: Fri Aug 21 07:13:25 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number: Error: Account number does not exist: A001
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number: Error: Account number does not exist: 3
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number: Enter receiver's account number: Enter amount: Error: One or both account numbers not found.
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your loan ID: Please enter a valid number: 
+========== NEW SESSION: Fri Aug 21 07:26:09 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number: Error: Account number does not exist: A1002
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Please enter a valid number: Enter your account number: Error: Account number does not exist: A10340679231
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Logging out...
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: ===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number (10 digits): Enter address: Enter account type (Savings/Current): Enter opening deposit: 
+========== NEW SESSION: Fri Aug 21 07:32:11 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== HELP DESK MENU =====
+1. Log a Support Ticket
+2. View FAQs
+3. Escalate an Unresolved Issue
+4. Logout
+Enter your choice: Enter account number: Describe the issue: 
+========== NEW SESSION: Fri Aug 21 07:37:50 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number: Error: Account number does not exist: A0097
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Please enter a valid number: 
+========== NEW SESSION: Fri Aug 21 07:40:27 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter your account number(A1001): Error: Account number does not exist: A1001
+
+===== CUSTOMER MENU =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 08:53:16 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 08:58:32 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 09:11:56 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 09:40:47 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+========== NEW SESSION: Fri Aug 21 09:47:59 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 09:51:50 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 10:09:06 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: Error: Account number not found: A1003
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 10:18:54 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: Error: Account number not found: A1002
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 10:23:49 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: Error: Account number not found: A1001
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C1
+Account Number : A1001
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: ===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Balance for A1001 : Rs. 500.0
+
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: ===== MINI STATEMENT =====
+Account Number: A1001
+Customer Name : Sanjana
+Balance : Rs. 500.0
+Transactions :
+ OPENING DEPOSIT: Rs. 500.0
+
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter receiver's account number: Enter amount: Error: One or both account numbers not found.
+
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Logging out...
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Weak password. Password must contain at least 8 characters, one uppercase letter, one lowercase letter, one digit and one special character.
+Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C2
+Account Number : A1002
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: ===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Enter receiver's account number: Enter amount: Error: Withdrawal denied for Savings account A1001 --- balance cannot go below the minimum Rs. 500.0 (Available to withdraw: Rs. 0.0)
+
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:18:44 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Balance for A1001 : Rs. 500.0
+
+===== CUSTOMER MENU (A1001) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:21:01 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C3
+Account Number : A1003
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: ===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+===== CUSTOMER MENU (374240747022) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Logging out...
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: Error: incorrect password.
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number (e.g. A1001): Enter your password: 
+===== CUSTOMER MENU (374240747022) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: Balance for A1001 : Rs. 500.0
+
+===== CUSTOMER MENU (374240747022) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: ===== MINI STATEMENT =====
+Account Number: A1001
+Customer Name : Sanjana
+Balance : Rs. 500.0
+Transactions :
+ OPENING DEPOSIT: Rs. 500.0
+
+===== CUSTOMER MENU (374240747022) =====
+1. Check Balance
+2. Mini Statement
+3. Transfer Funds
+4. Apply for Loan
+5. Check Loan Status
+6. Logout
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:37:21 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: Enter your account number : Enter your password: Error: incorrect password.
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Please enter a valid number: Please enter a valid number: 
+========== NEW SESSION: Fri Aug 21 11:39:42 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C4
+Account Number : A1004
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:44:14 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:45:14 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C5
+Account Number : A1005
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:46:17 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C6
+Account Number : A1006
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 11:57:12 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 12:14:15 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 13:57:31 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 13:57:42 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Weak password. Password must contain minimum 8 characters, one CAPITAL letter, one small letter, one number and one special character.
+Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C7
+Account Number : A1007
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 14:00:51 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: ===== ALL ACCOUNTS =====
+A1001 | Savings | Sanjana | Rs. 500.0 | ACTIVE
+A1002 | Current | lucky | Rs. 1000.0 | ACTIVE
+A1003 | Savings | Lehya | Rs. 1000.0 | ACTIVE
+A1004 | Savings | sanjana | Rs. 1000.0 | ACTIVE
+A1005 | Savings | sanajan | Rs. 1000.0 | ACTIVE
+A1006 | Current | sda | Rs. 1000.0 | ACTIVE
+A1007 | Savings | sdf | Rs. 1000.0 | ACTIVE
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: ===== ALL LOANS =====
+No loans found.
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: Enter loan ID: 
+========== NEW SESSION: Fri Aug 21 14:06:32 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Please enter a valid number: Please enter a valid number: 
+========== NEW SESSION: Fri Aug 21 14:07:27 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C8
+Account Number : A1008
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 14:15:19 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 14:16:32 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 14:46:52 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: Enter your full name: Enter mobile number : 
+Enter mobile number (10 digits, starting with 6-9): Enter address: Set a password: Enter account type (Savings/Current): Enter opening deposit: Account created successfully.
+Customer ID : C9
+Account Number : A1009
+Registration complete. Use 'Customer Login' from the main menu next time,
+with the Account Number shown above and the password you just set.
+
+===== NEW CUSTOMER REGISTRATION =====
+1. Register New Account
+2. Back to Login Menu
+Enter your choice: ===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: ===== ALL ACCOUNTS =====
+A1001 | Savings | Sanjana | Rs. 500.0 | ACTIVE
+A1002 | Current | lucky | Rs. 1000.0 | ACTIVE
+A1003 | Savings | Lehya | Rs. 1000.0 | ACTIVE
+A1004 | Savings | sanjana | Rs. 1000.0 | ACTIVE
+A1005 | Savings | sanajan | Rs. 1000.0 | ACTIVE
+A1006 | Current | sda | Rs. 1000.0 | ACTIVE
+A1007 | Savings | sdf | Rs. 1000.0 | ACTIVE
+A1008 | Savings | Maggi | Rs. 2000.0 | ACTIVE
+A1009 | Savings | safda | Rs. 2000.0 | ACTIVE
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: ===== ALL LOANS =====
+No loans found.
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: Enter loan ID: Approve this loan? (yes/no): Loan ID not found: 1
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: Enter loan ID: Approve this loan? (yes/no): Loan ID not found: 2
+
+===== BANK MANAGER MENU =====
+1. View All Accounts
+2. View All Loans
+3. Approve / Reject High-Value Loan
+4. Logout
+Enter your choice: Logging out...
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== AUDITOR MENU (Read-Only) =====
+1. View All Accounts
+2. View All Loans
+3. View Transaction Log
+4. View Failed Login Attempts
+5. Logout
+Enter your choice: (transaction_log.txt has no entries yet.)
+
+===== AUDITOR MENU (Read-Only) =====
+1. View All Accounts
+2. View All Loans
+3. View Transaction Log
+4. View Failed Login Attempts
+5. Logout
+Enter your choice: FAILED LOOKUP | Account: A001 | Context: account lookup
+FAILED LOOKUP | Account: 3 | Context: account lookup
+FAILED LOOKUP | Account: A1002 | Context: account lookup
+FAILED LOOKUP | Account: A10340679231 | Context: account lookup
+FAILED LOOKUP | Account: A0097 | Context: account lookup
+FAILED LOOKUP | Account: A1001 | Context: account lookup
+FAILED LOGIN | Account: A1003 | Fri Aug 21 10:09:23 IST 2026
+FAILED LOGIN | Account: A1002 | Fri Aug 21 10:20:16 IST 2026
+FAILED LOGIN | Account: A1001 | Fri Aug 21 10:24:09 IST 2026
+FAILED LOGIN | Account: 374240747022 | Fri Aug 21 11:23:35 IST 2026
+FAILED LOGIN | Account: 14 | Fri Aug 21 11:37:51 IST 2026
+
+===== AUDITOR MENU (Read-Only) =====
+1. View All Accounts
+2. View All Loans
+3. View Transaction Log
+4. View Failed Login Attempts
+5. Logout
+Enter your choice: ===== ALL ACCOUNTS =====
+A1001 | Savings | Sanjana | Rs. 500.0 | ACTIVE
+A1002 | Current | lucky | Rs. 1000.0 | ACTIVE
+A1003 | Savings | Lehya | Rs. 1000.0 | ACTIVE
+A1004 | Savings | sanjana | Rs. 1000.0 | ACTIVE
+A1005 | Savings | sanajan | Rs. 1000.0 | ACTIVE
+A1006 | Current | sda | Rs. 1000.0 | ACTIVE
+A1007 | Savings | sdf | Rs. 1000.0 | ACTIVE
+A1008 | Savings | Maggi | Rs. 2000.0 | ACTIVE
+A1009 | Savings | safda | Rs. 2000.0 | ACTIVE
+
+===== AUDITOR MENU (Read-Only) =====
+1. View All Accounts
+2. View All Loans
+3. View Transaction Log
+4. View Failed Login Attempts
+5. Logout
+Enter your choice: Logging out...
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+===== SECURITY OFFICER MENU =====
+1. Lock Account
+2. Unlock Account
+3. View Failed Login Attempts
+4. Logout
+Enter your choice: FAILED LOOKUP | Account: A001 | Context: account lookup
+FAILED LOOKUP | Account: 3 | Context: account lookup
+FAILED LOOKUP | Account: A1002 | Context: account lookup
+FAILED LOOKUP | Account: A10340679231 | Context: account lookup
+FAILED LOOKUP | Account: A0097 | Context: account lookup
+FAILED LOOKUP | Account: A1001 | Context: account lookup
+FAILED LOGIN | Account: A1003 | Fri Aug 21 10:09:23 IST 2026
+FAILED LOGIN | Account: A1002 | Fri Aug 21 10:20:16 IST 2026
+FAILED LOGIN | Account: A1001 | Fri Aug 21 10:24:09 IST 2026
+FAILED LOGIN | Account: 374240747022 | Fri Aug 21 11:23:35 IST 2026
+FAILED LOGIN | Account: 14 | Fri Aug 21 11:37:51 IST 2026
+
+===== SECURITY OFFICER MENU =====
+1. Lock Account
+2. Unlock Account
+3. View Failed Login Attempts
+4. Logout
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 15:19:46 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 15:23:26 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 15:29:21 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 15:29:54 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
+========== NEW SESSION: Fri Aug 21 15:30:19 IST 2026 ==========
+===== State Bank of India =====
+1. Customer Login
+2. Cashier Login
+3. Branch Manager Login
+4. Bank Manager Login
+5. Loan Officer Login
+6. Customer Service Executive Login
+7. Relationship Manager Login
+8. Accountant Login
+9. Auditor Login
+10. Security Officer Login
+11. IT Administrator Login
+12. Help Desk Login
+13. Registration (New Customer)
+14. Exit
+Enter your choice: 
